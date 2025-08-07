@@ -3,7 +3,7 @@
 <h2 align = "left"> 💫 About Me:</h2>
 
 - Computer Science & Applied Math @ Vanderbilt University (Class of 2027)
-- Interested in: Software Engineering, Data Science, Machine Learning, AI
+- Interested in: Software Engineering, Data Analytics, Machine Learning, AI
 - Contact me at mason.w.bae@vanderbilt.edu
 
 
